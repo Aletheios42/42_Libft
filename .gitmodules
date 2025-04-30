@@ -1,3 +1,3 @@
-[submodule "42_Ft_Printf"]
-	path = 42_Ft_Printf
-	url = https://github.com/Aletheios42/42_Ft_Printf.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/Aletheios42/ft_printf.git

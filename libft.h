@@ -19,6 +19,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
+# include "ft_printf/ft_printf.h"
 
 #ifndef OPEN_MAX
 #define OPEN_MAX 10000
